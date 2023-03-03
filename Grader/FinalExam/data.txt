@@ -1,0 +1,9 @@
+0
+5
+10
+12
+123459
+Earth is    4543000 years old 
+and has    6371 km radius 
+with population of    7753000
+My    number   is   0894435618
